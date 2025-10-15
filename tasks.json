@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "description": "My first task",
+    "status": "todo",
+    "createdAt": "2025-10-14T09:57:36.836783122+07:00",
+    "updatedAt": "2025-10-14T09:57:36.836783122+07:00"
+  },
+  {
+    "id": 2,
+    "description": "Betul emang dari awal",
+    "status": "in-progress",
+    "createdAt": "2025-10-14T09:57:45.587385028+07:00",
+    "updatedAt": "2025-10-14T09:58:43.8138988+07:00"
+  }
+]
